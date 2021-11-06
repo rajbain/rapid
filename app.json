@@ -1,8 +1,7 @@
 {
-	"name": "Rapidleech",
-	"description": "Deploy your favorite CMS on Heroku using our Drupal buildpack.",
-	"repository": "https://github.com/elasa-Sites/heroku-rapidleech",
-	"logo": "http://technomile.github.io/img/cms_buildpack_github.png",
-	"keywords": ["leech", "heroku", "php", "postgresql", "apache", "apache2"],
+	"name": "Test",
+	"description": "Deploy your site using php",
+	"repository": "https://github.com/aaquibbots/rapid",
+	"keywords": ["rapid", "heroku", "php", "postgresql", "apache", "apache2"],
 	"addons": ["heroku-postgresql:hobby-dev"]
 }
